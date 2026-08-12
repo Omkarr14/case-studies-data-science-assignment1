@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1,auc
+Heart-DT,0.8,0.835,0.795,0.815,0.854
+Heart-kNN,0.783,0.808,0.795,0.802,0.875
+Diabetes-DT,0.839,0.773,0.761,0.767,0.893
+Diabetes-kNN,0.802,0.716,0.716,0.716,0.865
